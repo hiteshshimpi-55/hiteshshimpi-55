@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi, I am Hitesh Shimpi! Great to see you here!
+## Hi, I am Hitesh Shimpi! Great to see you here!<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 I am Hitesh Shimpi, currently in the Second year of my BE in Computer Engineering from [Sandip Foundation
 Sandip Institute of Technology and Research Center](https://www.sandipfoundation.org/). I am a tech savant
 and an open-source enthusiast. I am always open to collabrating on projects and innovatie ideas.
