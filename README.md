@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi, I am Hitesh Shimpi! Great to see you here!<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-I am Hitesh Shimpi, currently in the Second year of my BE in Computer Engineering from [Sandip Foundation
+I am Hitesh Shimpi, currently in the Third year of my BE in Computer Engineering from [Sandip Foundation
 Sandip Institute of Technology and Research Center](https://www.sandipfoundation.org/). I am a tech savant
 and an open-source enthusiast. I am always open to collabrating on projects and innovatie ideas.
 
@@ -33,6 +33,9 @@ and an open-source enthusiast. I am always open to collabrating on projects and 
 ## 🔭 Libraries & Framework :
 
 ![Native Android](https://img.shields.io/badge/Android-563D7C?style=flat-square&logo=android&logoColor=white)
+![ReactJS](https://img.shields.io/badge/-React_Native-563D7C?style=flat-square&logo=react)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+
 
 ## 📈 Stats
 <p align="center">
