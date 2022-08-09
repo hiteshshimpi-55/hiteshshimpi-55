@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 I am Hitesh Shimpi, currently in the Third year of my BE in Computer Engineering from [Sandip Foundation
 Sandip Institute of Technology and Research Center](https://www.sandipfoundation.org/). I am a tech savant
 and an open-source enthusiast. I am always open to collabrating on projects and innovatie ideas.
+<br></br>Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-hiteshshimpi55-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hitesh-shimpi-726811161/)
 [![Gmail Badge](https://img.shields.io/badge/-shimpihitesh2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:shimpihitesh2@gmail.com)
+[![Resume Badge](https://img.shields.io/badge/Resume-Hitesh%20Shimpi-blue?labelColor=grey)](https://drive.google.com/file/d/1Q4BiRKidJobLgHMwUHizMZJUZypZ0KFz/view?usp=sharing)
 
 ## ⚡Technologies
 
