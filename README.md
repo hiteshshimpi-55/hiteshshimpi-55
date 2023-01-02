@@ -31,6 +31,7 @@ and an open-source enthusiast. I am always open to collabrating on projects and 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![GoLang](https://img.shields.io/badge/-GoLang-black?style=flat-square&logo=Go)
 
 ## 🔭 Libraries & Framework :
 
