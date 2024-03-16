@@ -32,10 +32,6 @@ and an open-source enthusiast. I am always open to collabrating on projects and 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![GoLang](https://img.shields.io/badge/-GoLang-black?style=flat-square&logo=Go)
-![Android](https://img.shields.io/badge/-GoLang-black?style=flat-square&logo=Android)
-![Django](https://img.shields.io/badge/-GoLang-black?style=flat-square&logo=Django)
-![Docker](https://img.shields.io/badge/-GoLang-black?style=flat-square&logo=Docker)
-![NodeJS](https://img.shields.io/badge/-GoLang-black?style=flat-square&logo=NodeJs)
 
 ## 🔭 Libraries & Framework :
 
