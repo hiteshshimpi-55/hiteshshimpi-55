@@ -21,7 +21,7 @@ and an open-source enthusiast. I am always open to collabrating on projects and 
 
 [![Linkedin Badge](https://img.shields.io/badge/-hiteshshimpi55-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hitesh-shimpi-726811161/)
 [![Gmail Badge](https://img.shields.io/badge/-shimpihitesh2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:shimpihitesh2@gmail.com)
-[![Resume Badge](https://img.shields.io/badge/Resume-Hitesh%20Shimpi-blue?labelColor=grey)](https://drive.google.com/file/d/1Q4BiRKidJobLgHMwUHizMZJUZypZ0KFz/view?usp=sharing)
+[![Resume Badge](https://img.shields.io/badge/Resume-Hitesh%20Shimpi-blue?labelColor=grey)](https://drive.google.com/file/d/1UAruF-Fh8H8eH7S-QpQtdb6xrJ82xfnn/view?usp=drive_link)
 
 ## ⚡Technologies
 
