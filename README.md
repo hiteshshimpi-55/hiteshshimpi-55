@@ -36,6 +36,8 @@ and an open-source enthusiast. I am always open to collabrating on projects and 
 
 ## 🔭 Libraries & Framework :
 
+![FastAPI](https://img.shields.io/badge/-fastapi-563D7C?style=flat-square&logo=fastapi)
+![Django](https://img.shields.io/badge/-django-563D7C?style=flat-square&logo=django)
 ![Native Android](https://img.shields.io/badge/Android-563D7C?style=flat-square&logo=android&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/-React_JS-563D7C?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
