@@ -28,11 +28,12 @@ and an open-source enthusiast. I am always open to collabrating on projects and 
 
 ### Language :
 ![Kotlin](https://img.shields.io/badge/-kotlin-black?style=flat-square&logo=kotlin)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=Java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![GoLang](https://img.shields.io/badge/-GoLang-black?style=flat-square&logo=Go)
+![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=Rust)
 
 ## 🔭 Libraries & Framework :
 
@@ -42,7 +43,7 @@ and an open-source enthusiast. I am always open to collabrating on projects and 
 ![ReactJS](https://img.shields.io/badge/-React_JS-563D7C?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Flutter](https://img.shields.io/badge/-flutter-563D7C?style=flat-square&logo=flutter)
-
+![React Native](https://img.shields.io/badge/-React_Native-563D7C?style=flat-square&logo=React_Native)
 [![An image of @hiteshshimpi55's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hiteshshimpi55)](https://holopin.io/@hiteshshimpi55)
 
 ## 📈 Stats
