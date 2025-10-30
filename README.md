@@ -44,8 +44,12 @@ and an open-source enthusiast. I am always open to collabrating on projects and 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Flutter](https://img.shields.io/badge/-flutter-563D7C?style=flat-square&logo=flutter)
 ![React Native](https://img.shields.io/badge/-React_Native-563D7C?style=flat-square&logo=React_Native)
+
+---
+
 [![An image of @hiteshshimpi55's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hiteshshimpi55)](https://holopin.io/@hiteshshimpi55)
 
+---
 ## 📈 Stats
 <p align="center">
  <a href="https://github.com/hiteshshimpi-55">
