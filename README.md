@@ -14,10 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi, I am Hitesh Shimpi! Great to see you here!<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-I am Hitesh Shimpi, currently in the Third year of my BE in Computer Engineering from [Sandip Foundation
-Sandip Institute of Technology and Research Center](https://www.sandipfoundation.org/). I am a tech savant
-and an open-source enthusiast. I am always open to collabrating on projects and innovatie ideas.
-<br></br>Find out more about me & feel free to connect with me here:
+I'm Hitesh Shimpi, Co-Founder & CTO at Lamp.ai and currently building at Flexprice.  
+Previously worked at Wizcommerce, Vesatogo, and SportsFam.
+
+I’m passionate about building scalable systems, developer tools, and pricing infrastructure.  
+An open-source enthusiast who enjoys collaborating on interesting projects and innovative ideas.
+<br></br>Find out more about me and feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-hiteshshimpi55-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hitesh-shimpi-726811161/)
 [![Gmail Badge](https://img.shields.io/badge/-shimpihitesh2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:shimpihitesh2@gmail.com)
