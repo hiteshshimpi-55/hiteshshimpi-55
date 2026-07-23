@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi, I am Hitesh Shimpi! Great to see you here!<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-I'm Hitesh Shimpi, Co-Founder & CTO at The Content Company and currently building at Flexprice.  
-Previously worked at Wizcommerce, Vesatogo, and SportsFam.
+I'm Hitesh Shimpi, Co-Founder & CTO at The Content Company.  
+Previously worked at Flexprice, Wizcommerce, Vesatogo, and SportsFam.
 
 I’m passionate about building scalable systems, developer tools, and pricing infrastructure.  
 An open-source enthusiast who enjoys collaborating on interesting projects and innovative ideas.
